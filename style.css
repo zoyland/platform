@@ -493,7 +493,7 @@ body {
     color: #AE1824;
 }
 .section1 .conbox {
-    width: 1400px;
+    width: 100%;
     height: auto;
     display: none;
 }
@@ -503,6 +503,7 @@ body {
 
 .section1 .conbox p {
     padding-bottom: 72px;
+    font-size: .9rem;
 }
 
 #sec1_slider_1 .cont1:nth-child(n+2) {
